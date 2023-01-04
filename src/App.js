@@ -10,7 +10,11 @@ const App = () => {
         </div>
         <div className='quote-author' style={{opacity: '1'}}>
           -
-          <span id='author'></span>
+          <span id='author'>Alguem ai</span>
+        </div>
+        <div className='buttons'>
+          <a className='button' id='instagram-quote' href='#' style={{backgroundColor: '#7F8DFA'}}></a>
+          <a className='button' id='instagram-quote' href='#' style={{backgroundColor: '#7F8DFA'}}></a>
         </div>
       </div>
     </div>
