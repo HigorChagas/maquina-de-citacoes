@@ -1,12 +1,4 @@
 import './App.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
-
-const Font = () => {
-  return (
-    <FontAwesomeIcon icon={faCoffee}></FontAwesomeIcon>
-  );
-}
 
 const App = () => {
   return (
